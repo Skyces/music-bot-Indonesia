@@ -7,7 +7,7 @@
   "private": true,
   "homepage": "https://github.com/Skyces/music-bot-Indonesia",
   "repository": "github:Skyces/music-bot-Indonesia",
-  "bugs": "https://github.com/Skyces/music-bot-Indonesiaissues",
+  "bugs": "https://github.com/Skyces/music-bot-Indonesia/issues",
   "engines": {
     "node": ">=12.0.0"
   },
