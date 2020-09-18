@@ -5,9 +5,9 @@
   "main": "index.js",
   "author": "Erit Islami <eritislami@gmail.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://github.com/Skyces/music-bot-Indonesia.",
+  "repository": "github:Skyces/music-bot-Indonesia",
+  "bugs": "https://github.com/Skyces/music-bot-Indonesiaissues",
   "engines": {
     "node": ">=12.0.0"
   },
