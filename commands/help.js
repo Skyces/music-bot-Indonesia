@@ -10,6 +10,7 @@ module.exports = {
     let helpEmbed = new MessageEmbed()
       .setTitle("Evobot Help")
       .setDescription("List of all commands")
+      .setFooter("Bot By Juna#7048")
       .setColor("#F8AA2A");
 
     commands.forEach((cmd) => {
